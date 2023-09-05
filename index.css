@@ -1,0 +1,15 @@
+.a{
+    margin-top: 10rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    color: azure;
+    text-align: center;
+    font-family:serif;
+}
+body{
+    background-color: black;
+}
+.a{
+    border: 5px solid;
+    color: white;
+}
